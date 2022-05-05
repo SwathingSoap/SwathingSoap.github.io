@@ -1,0 +1,16 @@
+{
+"companyName": "SkinchangerNFT",
+"productName": "Skinchanger",
+"productVersion": "0.0.1",
+"dataUrl": "skinchanger.data.unityweb",
+"wasmCodeUrl": "skinchanger.wasm.code.unityweb",
+"wasmFrameworkUrl": "skinchanger.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#804949",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}

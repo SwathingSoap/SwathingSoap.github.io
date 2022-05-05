@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html>
-<head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-Skinchanger</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="Skinchanger">
-<meta name="description" content="Skinchanger">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
-</head>
-<body>
-<h1>Skinchanger</h1>
-<p>Skinchanger</p>
-</body>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Skinchanger</title>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      UnityLoader.instantiate("unityContainer", "Build/skinchanger.json");
+    </script>
+  </head>
+  <body>
+    <div id="unityContainer" style="width: 1280px; height: 720px; margin: auto"></div>
+  </body>
 </html>
