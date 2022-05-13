@@ -54,6 +54,7 @@ layout: default
 	Визуальная часть приложения интегрируется в проект на фреймворке Electron, в котором работает frontend разработчик интерфейса.
 	
 | ![1](https://i.imgur.com/riJ6MVh.png) | ![2](https://i.imgur.com/PMlAmps.png) |
+|--|--|
 
 ![enter image description here](https://i.imgur.com/7vBa8eY.png)
 
