@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-**Dmitry Efremov**
+**Dmitry Efremov 0.2**
 *Senior unity developer*
 
 ## **Опыт работы:**
