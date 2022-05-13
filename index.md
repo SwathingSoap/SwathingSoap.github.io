@@ -57,6 +57,7 @@ layout: default
 	
 | ![1](https://i.imgur.com/riJ6MVh.png) | ![2](https://i.imgur.com/PMlAmps.png) |
 |--|--|
+|  |  |
 
 ![enter image description here](https://i.imgur.com/7vBa8eY.png)
 
