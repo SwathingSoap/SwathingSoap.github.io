@@ -45,6 +45,9 @@ resume_social_links:
 # Design settings
 resume_theme:                   default
 
+sass:
+    sass_dir: _sass /hoosegow/.bundle/ruby/2.3.0/gems/jekyll-theme-primer-0.6.0/_sass
+
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _congif.yml are only recognized when the server starts
