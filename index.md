@@ -20,7 +20,8 @@ layout: default
 	
 | ![1](https://i.imgur.com/Dh4kjSv.png) | ![2](https://i.imgur.com/hyUyHCS.png) |
 |--|--|
-| ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) 
+| ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) |
+
 -   Lead/Senior Unity Developer интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
     
 
@@ -35,6 +36,7 @@ layout: default
 | ![1](https://i.imgur.com/0voKOnG.png) | ![2](https://i.imgur.com/5yVXPeq.png) |
 |--|--|
 | ![3](https://i.imgur.com/qbUnLJ3.png) | ![4](https://i.imgur.com/GNOUsGQ.png) |
+
 - **Lead/Senior Developer** анонсированного, но еще не вышедшего проекта The Underground Man 2.
 
 	Анонс в [данной публикации](https://vk.com/mehsoft?w=wall-121877279_6131).
