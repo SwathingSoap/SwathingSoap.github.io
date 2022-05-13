@@ -5,7 +5,7 @@ description: "A resume template for Jekyll and GitHub Pages sites."
 # Build settings
 markdown: kramdown
 sass:
-  sass_dir: _sass
+  sass_dir: _sass /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-primer-0.6.0/_sass
   style: compressed
 
 # Resume settings
@@ -45,8 +45,7 @@ resume_social_links:
 # Design settings
 resume_theme:                   default
 
-sass:
-    sass_dir: _sass /hoosegow/.bundle/ruby/2.7.0/gems/jekyll-theme-primer-0.6.0/_sass
+
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
