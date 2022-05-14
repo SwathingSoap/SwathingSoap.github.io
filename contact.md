@@ -3,10 +3,10 @@ layout: default
 is_contact: true
 ---
 
-*TG: @swathingsoap
+* TG: [@swathingsoap](https://t.me/swathingsoap)
 
-*Discord: swathingsoap#2984
+* Email: [SwathingSoap@yandex.ru](mailto:SwathingSoap@yandex.ru)
 
-*Email: [SwathingSoap@yandex.ru] (mailto:SwathingSoap@yandex.ru)
+* Discord: swathingsoap#2984
 
----
+
