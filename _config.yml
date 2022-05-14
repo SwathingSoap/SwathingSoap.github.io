@@ -1,6 +1,6 @@
 title: SwathingSoap
 url: "SwathingSoap.github.io"
-baseurl: "/resume"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,5 @@ sass:
 
 nav:
  - name: "Обо мне"
-   link: "/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: ""
+
