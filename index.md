@@ -23,7 +23,7 @@ layout: default
 |--|--|
 | ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) |
 
--   Lead/Senior Unity Developer интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
+-   **Lead/Senior Unity Developer** интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
     
 
 	DAOB - Интерактивное приложение для проведения аукционов.
