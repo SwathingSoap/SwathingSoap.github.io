@@ -1,6 +1,6 @@
-#title: SwathingSoap
-#url: "SwathingSoap.github.io"
-#baseurl: "/"
+title: 
+url: "SwathingSoap.github.io"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
