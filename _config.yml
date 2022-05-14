@@ -16,10 +16,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Главная"
+ - name: "Главная "
    link: "index" 
- - name: "Портфолио"
+ - name: "Портфолио "
    link: resume
- - name: "Контакты"
+ - name: "Контакты "
    link: "contact"
 
