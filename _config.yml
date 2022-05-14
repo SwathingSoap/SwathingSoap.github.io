@@ -20,4 +20,6 @@ nav:
    link: "index" 
  - name: "Контакты"
    link: "contact"
+ - name: "Портфолио"
+   link: resume
 
