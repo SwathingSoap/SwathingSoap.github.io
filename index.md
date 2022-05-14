@@ -7,6 +7,7 @@ layout: default
 <img class="profile-picture" src="sherlock.jpg">
 
 **Дмитрий Ефремов**
+
 *Senior unity developer*
 
 ## **Опыт работы:**
