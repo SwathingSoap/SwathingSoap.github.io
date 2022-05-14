@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Обо мне"
-   link: "" 
+ - name: "Обо мне "
+   link: "/" 
  - name: "Контакты"
    link: "contact"
 
