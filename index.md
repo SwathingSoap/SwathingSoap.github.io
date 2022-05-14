@@ -2,7 +2,8 @@
 layout: default
 ---
 
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| dasdasdasda | <!-- cell gets column's alignment -->
 
 
-
-<center>[SwathingSoap](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)</center>

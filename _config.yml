@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "Главная"
    link: "index" 
- - name: "Контакты"
-   link: "contact"
  - name: "Портфолио"
    link: resume
+ - name: "Контакты"
+   link: "contact"
 
