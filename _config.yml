@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Главная "
+ - name: "Главная"
    link: "index" 
  - name: "Контакты"
    link: "contact"
