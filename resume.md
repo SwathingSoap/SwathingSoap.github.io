@@ -4,10 +4,8 @@ layout: default
 
 ## Обо мне
 
-<img class="profile-picture" src="sherlock.jpg">
-
 **Дмитрий Ефремов**
-
+<br/><br/>
 *Senior unity developer*
 
 ## **Опыт работы:**
