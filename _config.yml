@@ -7,17 +7,17 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://cdn.betterttv.net/emote/5d48374d9728020aca0da45b/3x"
+footer_text: aRolf"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Обо мне "
-   link: "/" 
+ - name: "Главная "
+   link: "index" 
  - name: "Контакты"
    link: "contact"
 
