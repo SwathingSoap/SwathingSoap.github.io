@@ -40,9 +40,9 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: 0px 0 0 0px;
-        float: right;
-        border-radius: 50%;
+        margin: 0 0 0 0;
+        float: left;
+        border-radius: 100%;
         p & {
             padding: 0;
             margin: 0;
