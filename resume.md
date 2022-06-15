@@ -7,16 +7,6 @@ layout: default
 <img class="profile-picture" src="https://i.imgur.com/8c1Ukin.png">
 
 *Senior Unity Developer*
-*Senior Unity Developer*
-
-
-*Senior Unity Developer*
-
-
-*Senior Unity Developer*
-*Senior Unity Developer*
-*Senior Unity Developer*
-*Senior Unity Developer*
 
 ## **Навыки:**
 - Уверенные навыки программирования на C#;
