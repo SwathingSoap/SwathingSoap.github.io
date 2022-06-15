@@ -4,7 +4,7 @@ layout: default
 
 ## Обо мне
 **Дмитрий Ефремов, 21 y.o.**
-<img class="profile-picture" src="[https://i.imgur.com/XYltwOP.png](https://i.imgur.com/8c1Ukin.png)">
+<img class="profile-picture" src="https://i.imgur.com/8c1Ukin.png">
 
 *Senior Unity Developer*
 
