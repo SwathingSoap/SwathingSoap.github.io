@@ -3,9 +3,10 @@ layout: default
 ---
 
 ## Обо мне
-| **Дмитрий Ефремов**|<img src="https://i.imgur.com/XYltwOP.png" alt="me =)" width="200"/>|
-|--|--|
-|||
+Дмитрий Ефремов, 21 y.o.
+<img class="profile-picture" src="https://i.imgur.com/XYltwOP.png">
+
+*Senior Unity Developer*
 
 ## **Навыки:**
 - Уверенные навыки программирования на C#;
