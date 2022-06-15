@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Обо мне
-| **Дмитрий Ефремов**<br>*Senior unity developer*</br> |<img src="https://i.imgur.com/XYltwOP.png" alt="me =)" width="200"/>|
+| **Дмитрий Ефремов**<br/>*Senior unity developer* |<img src="https://i.imgur.com/XYltwOP.png" alt="me =)" width="200"/>|
 |--|--|
 ## **Навыки:**
 - Уверенные навыки программирования на C#;
