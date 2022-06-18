@@ -2,78 +2,74 @@
 layout: default
 ---
 
-## Обо мне
-**Дмитрий Ефремов, 21 y.o.**
+## About me
+**Dmitry Efremov, 21 y.o.**
 <img class="profile-picture" src="https://i.imgur.com/8c1Ukin.png">
 
 *Senior Unity Developer*
 
-## **Навыки:**
-- Уверенные навыки программирования на C#;
-- Отличное знание Unity3D:
-	- Построение гибкой архитекруты крупных компонентов;
-	- Разработка игровых механик;  
-	- Работа с анимацией, Animator, IK;
-	- Знание особенностей работы в Unity как с 2D так и с 3D проектами;  
-	- Внедрение плагинов (таких как Steamworks, аналитика и т.д.);
-	- Оптимизация кода и графики проекта для работы на большем числе устройств;
-	- Умение пользоваться системами контроля версий (git, plastic scm);
-	- Опыт использования и оптимизации различных ассетов из Asset Store;  
-	- Опыт разработки клиент-серверной логики;
-	- Опыт внедрения локализации;
-- Опыт работы с Json файлами и различными библиотеками для его парсинга; 
+## **Skills:**
+- Strong programming skills in C#;
+- Excellent knowledge of Unity3D:
+- Building a flexible architecture of large components;
+- Development of game mechanics;
+- Working with animation, Animator, IK;
+- Knowledge of the features of working in Unity with both 2D and 3D projects;
+- Implementation of plugins (such as Steamworks, analytics, etc.);
+- Optimization of the code and graphics of the project to work on more devices;
+- Ability to use version control systems (git, plastic scm);
+- Experience in using and optimizing various assets from the Asset Store;
+- Experience in developing client-server logic;
+- Experience in implementing localization;
+- Experience with Json files and various libraries for its parsing;
 
-## **Опыт работы:**
+## **Work experience:**
 
-### **Mehsoft** - с Мая 2019  по текущее время
--   Lead/Senior Unity Developer вышедшего в январе 2020 года проекта [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
-	
-	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam. Разработка проводилась в команде из двух 3D артистов, художника, и разработчика.
+### **Mehsoft** - May 2019  to current time
+- Lead/Senior Unity Developer of the [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) project released in January 2020
 
-	[Ссылка на проект в Steam](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
-	
+[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) is a first-person action adventure released for personal computers, warmly received by players, has a 75% positive feedback on the Steam platform. Development was carried out in a team of two 3D artists, an artist, and a developer.
+
+[Steam](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
+
 | ![1](https://i.imgur.com/Dh4kjSv.png) | ![2](https://i.imgur.com/hyUyHCS.png) |
 |--|--|
 | ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) |
 
--   **Lead/Senior Unity Developer** интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
+- **Lead/Senior Unity Developer** interactive application for holding auctions or other live tournaments - DAOB (Deadly auction of beauties)
     
 
-	DAOB - Интерактивное приложение для проведения аукционов.
+DAOB - Interactive auction application.
 
-	Каждое сражение представляет собой дуэль между девушками. Во время сражения происходит проверка навыков, в ходе которой победитель "убивает" проигравшего красивой анимацией, сбрасывая проигравшего в нижнюю сетку.
+Each battle is a duel between girls. During the battle, a skill test takes place, during which the winner "kills" the loser with a beautiful animation, dropping the loser into the lower bracket.
 
-	Работа проводилась в команде из двух художников, аниматора и разработчика.
-	
-	Работу приложения в действии можно увидеть на [данном видеоролике](https://youtu.be/XYS-zTtFvno?t=318). (Видео с таймкодом)
+The work was carried out in a team of two artists, an animator and a developer.
+
+You can see the app in action in [this video](https://youtu.be/XYS-zTtFvno?t=318). (Video with timecode)
 
 | ![1](https://i.imgur.com/0voKOnG.png) | ![2](https://i.imgur.com/5yVXPeq.png) |
 |--|--|
 | ![3](https://i.imgur.com/qbUnLJ3.png) | ![4](https://i.imgur.com/GNOUsGQ.png) |
 
-- **Lead/Senior Developer** анонсированного, но еще не вышедшего проекта The Underground Man 2.
+- **Lead/Senior Developer** of the announced but not yet released The Underground Man 2 project.
 
-	Анонс в [данной публикации](https://vk.com/mehsoft?w=wall-121877279_6131).
+Announcement in [this publication](https://vk.com/mehsoft?w=wall-121877279_6131).
 
-	The  Underground  Man 2 это 2D экшен, с элементами жанра Beat’em  up, платформинга и с нелинейным повествованием.
-	![enter image description here](https://i.imgur.com/PZU9zvj.png)
+The Underground Man 2 is a 2D action game with beat 'em up elements, platforming and non-linear storytelling.
+![enter image description here](https://i.imgur.com/PZU9zvj.png)
 
-## **Сторонние проекты:**
+## **Side projects:**
 
 ### **HPG Team**
-- **Unity** **Developer**  **в HPG Team.** Разработка визуальной части приложения для проведения 4 сезона инвента под названием **HPG** **(****Home**  **Price**  **Gauntlet****).**
+- **Unity** **Developer** **in the HPG Team.** Development of the visual part of the application for the 4th season of the event called **HPG** **(****Home** **Price** **Gauntlet****).**
 
-	Веду разработку визуальной части приложения, а именно интерактивной карты для игроков. На которой передвигаются аватары игроков, происходит выбор секторов.
+I am developing the visual part of the application, namely the interactive map for the players. On which the avatars of the players move, the sectors are selected.
 
-	Работа ведется в команде из двух WEB разработчиков, frontend и backend.
+The work is carried out in a team of two WEB developers, frontend and backend.
 
-	Визуальная часть приложения интегрируется в проект на фреймворке Electron, в котором работает frontend разработчик интерфейса.
-	
+The visual part of the application is integrated into the project on the Electron framework, in which the frontend interface developer works.
+
 | ![1](https://i.imgur.com/riJ6MVh.png) | ![2](https://i.imgur.com/PMlAmps.png) |
 |--|--|
-|  |  |
-
+| | |
 ![enter image description here](https://i.imgur.com/7vBa8eY.png)
-
-
-
