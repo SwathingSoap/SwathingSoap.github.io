@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "[Unity] Cursor size with new Input System"
