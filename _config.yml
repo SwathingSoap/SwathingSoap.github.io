@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://cdn.betterttv.net/emote/5d48374d9728020aca0da45b/3x"
-footer_text: "aRolf"
+footer: yes
+footer_url: "SwathingSoap.github.io"
+footer_text: "swathingsoap"
 
 ins_logo: "https://i.imgur.com/G5wQfJW.png"
 
