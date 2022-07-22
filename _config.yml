@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "SwathingSoap.github.io"
 footer_text: "swathingsoap"
 

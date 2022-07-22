@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "[Unity] Cursor size with new Input System"
+footer: yes
 ---
 
 # [Unity] Cursor size with new Input System
