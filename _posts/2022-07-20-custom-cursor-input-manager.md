@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "[Unity] Cursor size with new Input System"
-footer: yes
 ---
 
 # [Unity] Cursor size with new Input System
@@ -51,6 +50,8 @@ public class CustomCursor : MonoBehaviour
 6. Assign to the **mCursorVisual** variable RectTransform of the previously created **GameObject** with the Image component
 
 *In my case, the mDisplacement variable has values (8,-8) because my cursor is 16 by 16 pixels and I need to set it to shift so that the corner of the Image Cursor is where the cursor actually is.*
+
+![cursor](https://i.imgur.com/Z3WVoQe.png)
 
 As you can see, this implementation contains a feature:
 CustomCursor.visible
