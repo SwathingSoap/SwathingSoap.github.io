@@ -19,9 +19,6 @@ layout: default
 
 	
 	<iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe>
-	
-	
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 -   **Lead/Senior Unity Developer** интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
@@ -33,7 +30,7 @@ layout: default
 
 	Работа проводилась в команде из двух художников, аниматора и разработчика.
 	
-	Работу приложения в действии можно увидеть на [данном видеоролике](https://youtu.be/XYS-zTtFvno?t=318). (Видео с таймкодом)
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/XYS-zTtFvno?start=318" frameborder="0" allow=" autoplay;  encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 | ![1](https://i.imgur.com/0voKOnG.png) | ![2](https://i.imgur.com/5yVXPeq.png) |
 |--|--|
