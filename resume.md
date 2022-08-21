@@ -16,13 +16,11 @@ layout: default
 	
 	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam. Разработка проводилась в команде из двух 3D артистов, художника, и разработчика.
 
-	[Ссылка на проект в Steam](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
+
 	
 	<iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe>
 	
-| ![1](https://i.imgur.com/Dh4kjSv.png) | ![2](https://i.imgur.com/hyUyHCS.png) |
-|--|--|
-| ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) |
+
 
 -   **Lead/Senior Unity Developer** интерактивного приложения для проведения аукционов или других турниров на прямых трансляциях - DAOB (Deadly auction of beauties)
     
