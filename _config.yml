@@ -1,6 +1,6 @@
 title: 
 url: "SwathingSoap.github.io"
-baseurl: "/SwathingSoap.github.io/OLD/"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
