@@ -1,0 +1,28 @@
+title: 
+url: "SwathingSoap.github.io"
+baseurl: "/SwathingSoap.github.io/OLD/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+footer_url: "SwathingSoap.github.io"
+footer_text: "swathingsoap"
+
+ins_logo: "https://i.imgur.com/G5wQfJW.png"
+ins_link: "https://SwathingSoap.github.io"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Главная "
+   link: "index" 
+ - name: "Портфолио "
+   link: resume
+ - name: "Контакты "
+   link: "contact"
+
