@@ -18,6 +18,8 @@ layout: default
 
 	[Ссылка на проект в Steam](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
 	
+	<iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe>
+	
 | ![1](https://i.imgur.com/Dh4kjSv.png) | ![2](https://i.imgur.com/hyUyHCS.png) |
 |--|--|
 | ![3](https://i.imgur.com/LysnPBh.png) | ![4](https://i.imgur.com/fuzTKbq.png) |
