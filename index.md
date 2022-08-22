@@ -9,7 +9,7 @@ layout: default
 <br/><br/><br/>
 
 <center>MY PROJECTS:</center>
-<center><iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe></center>
+<center><a href="https://store.steampowered.com/app/1449000/CALL_OF_LDPR/e">CALL OF LDPR</a></center>
 <center><a href="https://www.youtube.com/watch?v=XYS-zTtFvno">THE DEADLY AUCTION OF BEAUTIES</a></center>
 <center><a href="https://clips.twitch.tv/FunnySarcasticSkirretDAESuppy-s4wDuDBGWqqIe3gE">HPG 4.0</a></center>
 <br/><br/><br/>
