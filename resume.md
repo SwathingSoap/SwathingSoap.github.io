@@ -9,10 +9,14 @@ layout: default
 *Senior Unity Developer*
 
 
+
+
+
+
 ## **Опыт работы:**
 
 ### **Mehsoft** - с Мая 2019  по текущее время
-- **Lead/Senior Developer** анонсированного, но еще не вышедшего проекта The Underground Man 2.
+- **Lead/Senior Developer** анонсированного проекта [The Underground Man 2](https://store.steampowered.com/app/1486950/The_Underground_Man_2/).
 
 	Увлекательная смесь классических жанров beat 'em up, point-and-click, платформер и др. в антураже забористого постапокалипсиса.
 
@@ -20,7 +24,7 @@ layout: default
 
 -   Lead/Senior Unity Developer вышедшего в январе 2020 года проекта [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
 	
-	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam. Разработка проводилась в команде из двух 3D артистов, художника, и разработчика.
+	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam.
 
 
 	<iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe>
@@ -36,11 +40,6 @@ layout: default
 	Работа проводилась в команде из двух художников, аниматора и разработчика.
 	
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/XYS-zTtFvno?start=318" frameborder="0" allow=" autoplay;  encrypted-media; picture-in-picture" allowfullscreen></iframe>
-
-| ![1](https://i.imgur.com/0voKOnG.png) | ![2](https://i.imgur.com/5yVXPeq.png) |
-|--|--|
-| ![3](https://i.imgur.com/qbUnLJ3.png) | ![4](https://i.imgur.com/GNOUsGQ.png) |
-
 
 ## **Сторонние проекты:**
 
