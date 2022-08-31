@@ -22,7 +22,7 @@ layout: default
 
 	<iframe src="https://store.steampowered.com/widget/1486950/" frameborder="0" width="646" height="190"></iframe>
 
--   Lead/Senior Unity Developer вышедшего в январе 2020 года проекта [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
+- **Lead/Senior Unity Developer** вышедшего в январе 2020 года проекта [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
 	
 	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam.
 
