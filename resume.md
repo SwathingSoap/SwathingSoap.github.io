@@ -12,12 +12,17 @@ layout: default
 ## **Опыт работы:**
 
 ### **Mehsoft** - с Мая 2019  по текущее время
+- **Lead/Senior Developer** анонсированного, но еще не вышедшего проекта The Underground Man 2.
+
+	Увлекательная смесь классических жанров beat 'em up, point-and-click, платформер и др. в антураже забористого постапокалипсиса.
+
+	<iframe src="https://store.steampowered.com/widget/1486950/" frameborder="0" width="646" height="190"></iframe>
+
 -   Lead/Senior Unity Developer вышедшего в январе 2020 года проекта [Call of LDPR.](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/)
 	
 	[Call of LDPR](https://store.steampowered.com/app/1449000/CALL_OF_LDPR/) - экшен приключение от первого лица выпущенное для персональных компьютеров, тепло принятое игроками, имеет 75% положительных отзывов на платформе Steam. Разработка проводилась в команде из двух 3D артистов, художника, и разработчика.
 
 
-	
 	<iframe src="https://store.steampowered.com/widget/1449000/" frameborder="0" width="646" height="190"></iframe>
 
 
@@ -36,12 +41,6 @@ layout: default
 |--|--|
 | ![3](https://i.imgur.com/qbUnLJ3.png) | ![4](https://i.imgur.com/GNOUsGQ.png) |
 
-- **Lead/Senior Developer** анонсированного, но еще не вышедшего проекта The Underground Man 2.
-
-	Анонс в [данной публикации](https://vk.com/mehsoft?w=wall-121877279_6131).
-
-	The  Underground  Man 2 это 2D экшен, с элементами жанра Beat’em  up, платформинга и с нелинейным повествованием.
-	![enter image description here](https://i.imgur.com/PZU9zvj.png)
 
 ## **Сторонние проекты:**
 
