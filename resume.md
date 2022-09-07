@@ -39,14 +39,14 @@ layout: default
 
 	Работа проводилась в команде из двух художников, аниматора и разработчика.
 	
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/XYS-zTtFvno?start=318" frameborder="0" allow=" autoplay;  encrypted-media; picture-in-picture" allowfullscreen></iframe>
+	<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XYS-zTtFvno?start=318" frameborder="0" allow=" autoplay;  encrypted-media; picture-in-picture" allowfullscreen></iframe></p>
 
 ## **Сторонние проекты:**
 
 ### **HPG Team**
 - **Senior** **Unity** **Developer**  **в HPG Team.** Разработка основных механик и визуала приложения для проведения 4 сезона инвента под названием **HPG** **(****Home**  **Price**  **Gauntlet****).**
 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/EP_NPnz-rCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EP_NPnz-rCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 
