@@ -44,19 +44,9 @@ layout: default
 ## **Сторонние проекты:**
 
 ### **HPG Team**
-- **Unity** **Developer**  **в HPG Team.** Разработка визуальной части приложения для проведения 4 сезона инвента под названием **HPG** **(****Home**  **Price**  **Gauntlet****).**
+- **Senior** **Unity** **Developer**  **в HPG Team.** Разработка основных механик и визуала приложения для проведения 4 сезона инвента под названием **HPG** **(****Home**  **Price**  **Gauntlet****).**
 
-	Веду разработку визуальной части приложения, а именно интерактивной карты для игроков. На которой передвигаются аватары игроков, происходит выбор секторов.
-
-	Работа ведется в команде из двух WEB разработчиков, frontend и backend.
-
-	Визуальная часть приложения интегрируется в проект на фреймворке Electron, в котором работает frontend разработчик интерфейса.
-	
-| ![1](https://i.imgur.com/riJ6MVh.png) | ![2](https://i.imgur.com/PMlAmps.png) |
-|--|--|
-|  |  |
-
-![enter image description here](https://i.imgur.com/7vBa8eY.png)
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/EP_NPnz-rCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
