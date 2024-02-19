@@ -5,7 +5,6 @@ layout: default
 <br/><br/>
 <center>SWATHINGSOAP</center>
 
-<center><a href="https://swathingsoap.github.io/resume">RESUME</a></center>
 <br/><br/><br/>
 
 <center>MY PROJECTS:</center>
